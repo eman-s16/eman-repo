@@ -1,2 +1,1 @@
-# eman-repo
-Created with CodeSandbox
+# Recipe Search API using React
